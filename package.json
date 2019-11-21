@@ -8,6 +8,6 @@
     "unixfs": "./index.js"
   },
   "dependencies": {
-    "ipfs-unixfs": "^0.1.15"
+    "ipfs-unixfs": "^0.2.0"
   }
 }
