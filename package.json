@@ -12,6 +12,7 @@
     "unixfs": "./index.js"
   },
   "dependencies": {
-    "ipfs-unixfs": "^4.0.3"
+    "ipfs-unixfs": "^4.0.3",
+    "uint8arrays": "^2.1.5"
   }
 }
