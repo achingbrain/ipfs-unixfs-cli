@@ -4,10 +4,14 @@
   "description": "Simple cli tool to inspect UnixFS metadata from IPFS DAG nodes",
   "author": "Alex Potsides <alex@achingbrain.net",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/achingbrain/ipfs-unixfs-cli.git"
+  },
   "bin": {
     "unixfs": "./index.js"
   },
   "dependencies": {
-    "ipfs-unixfs": "^0.2.0"
+    "ipfs-unixfs": "^4.0.3"
   }
 }
